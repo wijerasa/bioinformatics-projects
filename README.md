@@ -20,7 +20,10 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
    </ol>
     <li><a href="">MetagenomeSeq</a></li>
     <ol start="i.i">
-      <li><a href="">CSS Normalized: Viloline plot and Bargraphs</a></li>
+      <li><a href="">CSS Normalized Viloline plot and Bargraphs</a></li>
+      <li><a href="">Presence-absence testing</a></li>
+      <li><a href="">Unique OTUs or features</a></li>
+      <li><a href="">HeatMaps and PCA plots</a></li>
    </ol>
   </ol>
   
