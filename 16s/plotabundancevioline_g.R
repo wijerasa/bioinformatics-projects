@@ -1,0 +1,4 @@
+plot_abundance_violin = function(obj, ylabn = "", Facet = "Family", Color = "Family") { 
+ggplot(data = obj, mapping = aes_string(x = "Treatment", y = "Abundance",color= Color,  fill = Color)) +geom_violin( fill = NA) + geom_point(size = 1, alpha = 0.3,position = position_jitter(width = 0.3)) +facet_wrap(facets = Facet) + ylab(ylabn) + scale_y_log10()+theme(axis.text.x = element_text(angle = 90, hjust = 0.5,vjust=0.5, size=8), panel.grid.major = element_blank(), panel.grid.minor = element_blank(), panel.border = element_blank(), panel.background =element_rect(fill='gray90', colour='black'), plot.background=element_rect(fill="gray80"))+theme(legend.position='none')
+    
+}

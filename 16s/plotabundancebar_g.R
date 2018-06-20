@@ -1,0 +1,4 @@
+plot_abundance_bar = function(obj, ylabn = "", t_rank = "Family", Color = "Family", col) { 
+  ggplot(obj[order(obj$Family),],aes(X.SampleID,Abundance,fill=Family)) + geom_bar(stat="identity", position="fill")+scale_y_continuous(labels = percent_format())+theme(axis.text.x = element_text(angle = 90, hjust = 0.5,vjust=0.5, size=8), panel.grid.major = element_blank(), panel.grid.minor = element_blank(), panel.border = element_blank(), panel.background =element_rect(fill='gray50', colour='black'), plot.background=element_rect(fill="gray80"))+  scale_fill_manual(values = col) +facet_grid(. ~Treatment+IncubationDate, drop=TRUE, scales = "free", space="free_x")
+  
+}
