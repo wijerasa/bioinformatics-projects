@@ -14,5 +14,9 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
       <li> <a href="">Rarefying</a></li>
       <li> <a href="">CSS: Cumulative-Sum Scaling</a></li>
    </ol>
+    <li><a href="">Abundance Plot</a></li>
+    <ol start="i.i">
+      <li><a href="">Viloline plot and Bargraphs</a></li>
+   </ol>
   </ol>
   
