@@ -1,2 +1,2 @@
 # bioinformatics-projects
-A Collection of Bioinformatics Projects
+Here, I am sharing scripts and methods I used for some of the Bioinformatics projects. 
