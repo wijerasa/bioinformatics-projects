@@ -9,7 +9,9 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
    <li><a href="">Loading Qiime meta data to Phyloseq library</a></li>
    <li><a href="">Prevalence filtering</a></li>
    <li><a href="">Filtering and Normalization</a></li>
-    <li><a href="https://www.osc.edu/resources/getting_started">Getting Started</a></li>
-    <li><a href="https://www.osc.edu/supercomputing/support/account">Project Applications</a></li>
+    <ol start="i.i">
+    <li>SSH ("Secure Shell") clients</li>
+    <li> OSC Connect</li>
+   </ol>
   </ol>
   
