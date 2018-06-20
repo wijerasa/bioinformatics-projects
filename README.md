@@ -16,7 +16,7 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
    </ol>
     <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#abundance-plot">Abundance Plot</a></li>
     <ol start="i.i">
-      <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#viloline-plot-and-bargraphs">Viloline plot and Bargraphs</a></li>
+      <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#viloline-plot-and-bargraphs">Violine plots and Bargraphs</a></li>
    </ol>
     <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#metagenomeseq">MetagenomeSeq</a></li>
     <ol start="i.i">
