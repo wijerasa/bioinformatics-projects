@@ -24,7 +24,7 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
       <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#presence-absence-testing">Presence-absence testing</a></li>
       <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#unique-otus-or-features">Unique OTUs or features</a></li>
       <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#heatmaps-and-pca-plots">HeatMaps and PCA plots</a></li>
-   </ol>
-    <li><strong>Project 2 - <a href="">In Silico Restriction Enzyme Digestion</a></strong></li>
+   </ol>   
   </ol>
+  <li><strong>Project 2 - <a href="">In Silico Restriction Enzyme Digestion</a></strong></li>
   
