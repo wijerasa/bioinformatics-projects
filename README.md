@@ -4,7 +4,7 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
 
 #### Table of Contents
 <ol start="1">
-  <li><strong>Project 1 - <a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis">16s Microbiome Data Analysis</a></strong></li>
+  <li><strong>Project 1 - <a href="https://github.com/wijerasa/bioinformatics-projects/wiki/1.16s-Microbiome-Data-Analysis">16s Microbiome Data Analysis</a></strong></li>
   <ol start="i">
    <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#loading-qiime-meta-data-to-phyloseq-library">Loading Qiime meta data to Phyloseq library</a></li>
    <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/16s-Microbiome-Data-Analysis#prevalence-filtering">Prevalence filtering</a></li>
