@@ -26,5 +26,5 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
       <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/1.-16s-Microbiome-Data-Analysis#heatmaps-and-pca-plots">HeatMaps and PCA plots</a></li>
    </ol>   
   </ol>
-  <li><strong>Project 2 - <a href="">In Silico Restriction Enzyme Digestion</a></strong></li>
+  <li><strong>Project 2 - <a href="https://github.com/wijerasa/bioinformatics-projects/wiki/2.-In-Silico-Restriction-Enzyme-Digestion">In Silico Restriction Enzyme Digestion</a></strong></li>
   
