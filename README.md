@@ -27,4 +27,5 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
    </ol>   
   </ol>
   <li><strong>Project 2 - <a href="https://github.com/wijerasa/bioinformatics-projects/wiki/2.-In-Silico-Restriction-Enzyme-Digestion">In Silico Restriction Enzyme Digestion</a></strong></li>
+  <li><strong>Project 3 - <a href="">Random GGplots</a></strong></li>
   
