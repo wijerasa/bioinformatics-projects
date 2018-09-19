@@ -4,7 +4,7 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
 
 #### Table of Contents
 <ol start="1">
-  <li><strong>Project 1 - <a href="https://github.com/wijerasa/bioinformatics-projects/wiki/1.-16s-Microbiome-Data-Analysis">16s Microbiome Data Analysis</a></strong></li>
+  <li><strong>Project 1 - <a href="https://github.com/wijerasa/bioinformatics-projects/wiki/1.-16s-Microbiome-Data-Analysis">16s Microbiome Data Analysis Qiime 1</a></strong></li>
   <ol start="i">
    <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/1.-16s-Microbiome-Data-Analysis#loading-qiime-meta-data-to-phyloseq-library">Loading Qiime meta data to Phyloseq library</a></li>
    <li><a href="https://github.com/wijerasa/bioinformatics-projects/wiki/1.-16s-Microbiome-Data-Analysis#prevalence-filtering">Prevalence filtering</a></li>
@@ -28,4 +28,5 @@ Here, I am sharing scripts and methods I used for some of the Bioinformatics pro
   </ol>
   <li><strong>Project 2 - <a href="https://github.com/wijerasa/bioinformatics-projects/wiki/2.-In-Silico-Restriction-Enzyme-Digestion">In Silico Restriction Enzyme Digestion</a></strong></li>
   <li><strong>Project 3 - <a href="https://github.com/wijerasa/bioinformatics-projects/wiki/3.Random-GGplots">Random GGplots</a></strong></li>
+  <li><strong>Project 4 - <a href="https://github.com/wijerasa/Qiime2_Pipeline">Microbiome Data Analysis Qiime 2</a></strong></li>
   
